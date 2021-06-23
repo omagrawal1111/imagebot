@@ -1,2 +1,2 @@
-# imagebot
-Database for images
+# 👾Imagebot👾
+Database for image
